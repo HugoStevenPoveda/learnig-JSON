@@ -1,0 +1,30 @@
+{
+"personas":[
+    {
+       "nombre":"Hugo Steven ",
+        "apellido":"poveda girata",
+        "edad":25,
+        "nickName":"HugoSteven"
+    },
+    {
+       "nombre":" Steven ",
+        "apellido":" girata",
+        "edad":26,
+        "nickName":"Huguito"
+    },
+    {
+       "nombre":"Hugo",
+        "apellido":"poveda",
+        "edad":30,
+        "nickName":"ceoHugo"
+    },
+    {
+       "nombre":" steve",
+        "apellido":"poveda ",
+        "edad":35,
+        "nickName":"inversionista"
+    }
+] 
+
+
+}

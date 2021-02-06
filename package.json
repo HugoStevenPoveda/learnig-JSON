@@ -1,0 +1,16 @@
+{
+  "name": "json_practica",
+  "version": "0.0.1",
+  "description": "learnig json",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "index.js"
+  },
+  "author": "Hugo Poveda",
+  "license": "ISC"
+}
